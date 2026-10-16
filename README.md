@@ -45,3 +45,7 @@ luau · c++ · rust · ocaml · glsl · asm
 <p align="center">
   <img src="cat.gif" width="480" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="10" />
+</p>
