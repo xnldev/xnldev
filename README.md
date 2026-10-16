@@ -1,16 +1,41 @@
-## Hi there 👋
+## low-level & game internals
 
-<!--
-**xnldev/xnldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+primarily working with luau internals, vm behavior, and runtime environments. expanding deeper into systems programming, native execution, and binary analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### focus
+
+- **runtime / languages**  
+  luau, lua 5.1/luajit  
+  bytecode mechanics, ast, sandboxing, vm internals
+
+- **systems / native**  
+  c++, rust, ocaml  
+  memory layout, abi boundaries, compilers, native tooling
+
+- **analysis / reverse engineering**  
+  x86_64, ida, ghidra, x64dbg  
+  disassembly, control flow, memory structures, detours
+
+- **graphics**  
+  glsl  
+  fragment/vertex shaders, rendering pipelines
+
+---
+
+### stack
+
+```
+luau · c++ · rust · ocaml · glsl · asm
+```
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="10" />
+</p>
+
+<p align="center">
+  <img src="cat.gif" width="480" />
+</p>
