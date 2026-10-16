@@ -30,6 +30,10 @@ primarily working with luau internals, vm behavior, and runtime environments. ex
 luau · c++ · rust · ocaml · glsl · asm
 ```
 
+### reach
+
+- **discord:** `username`
+
 ---
 
 <p align="center">
