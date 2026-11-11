@@ -8,7 +8,7 @@ primarily working with luau internals, vm behavior, and runtime environments. ex
 
 - **runtime / languages**  
   luau, lua 5.1/luajit  
-  bytecode mechanics, ast, sandboxing, vm internals
+  ast, sandboxing, vm internals
 
 - **systems / native**  
   c++, rust, ocaml  
